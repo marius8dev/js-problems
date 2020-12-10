@@ -6,4 +6,5 @@
 06. Reverse a string. Using both string and array methods. <a href="https://marius8dev.github.io/06/index.html" target="_blank">Demo</a>
 07. Swap Two Integers Values (A.- Using a temporary variable, B.- Without a temporary variable, C.- Using javascript destructuring). <a href="https://marius8dev.github.io/07/index.html" target="_blank">Demo</a>
 08. Fizz Buzz. Write a program that prints the numbers from 1 to 100. But for multiples of three print "Fizz" instead of the number and for the multiples of five print "Buzz". For numbers which are multiples of both three and five print "FizzBuzz". <a href="https://marius8dev.github.io/08/index.html" target="_blank">Demo</a>
-08. Return first recurring character in a given string. <a href="https://marius8dev.github.io/09/index.html" target="_blank">Demo</a>
+09. Return first recurring character in a given string. <a href="https://marius8dev.github.io/09/index.html" target="_blank">Demo</a>
+10. Write a function that takes a string and returns the number of four letters names. The input argument (names) is a string with names separated by spaces without punctuation. <a href="https://marius8dev.github.io/10/index.html" target="_blank">Demo</a>
