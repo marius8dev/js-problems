@@ -12,3 +12,4 @@
 12. Calculate factorial both recursively and non recursively. <a href="https://marius8dev.github.io/12/index.html" target="_blank">Demo</a>
 13. Add a property and a method to function constructor. <a href="https://marius8dev.github.io/13/index.html" target="_blank">Demo</a>
 14. Write a JavaScript program to convert temperatures to and from celsius, fahrenheit. <a href="https://marius8dev.github.io/14/index.html" target="_blank">Demo</a>
+15. Write a JavaScript program to generate all permutations of a string (contains duplicates). <a href="https://marius8dev.github.io/15/index.html" target="_blank">Demo</a>
