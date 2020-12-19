@@ -16,3 +16,5 @@
 16. Create a new array out of the two supplied by creating each possible pair from the arrays. <a href="https://marius8dev.github.io/16/index.html" target="_blank">Demo</a>
 17. Get an array of elements that appear in both arrays. <a href="https://marius8dev.github.io/17/index.html" target="_blank">Demo</a>
 18. Calculate the sum of squares of a numeric vector. <a href="https://marius8dev.github.io/18/index.html" target="_blank">Demo</a>
+19. Write a JavaScript function that generates all combinations of a string. <a href="https://marius8dev.github.io/19/index.html" target="_blank">Demo</a>
+
