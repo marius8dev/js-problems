@@ -20,3 +20,4 @@
 20. Write a JavaScript function that accepts a number as a parameter and check the number is prime or not. <a href="https://marius8dev.github.io/20/index.html" target="_blank">Demo</a>
 21. Write a JavaScript function to compute the value of b<sup>n</sup> where n is the exponent and b is the base. Accept b and n from the user and display the result. <a href="https://marius8dev.github.io/21/index.html" target="_blank">Demo</a>
 22. Find the first not repeated character inside a string. <a href="https://marius8dev.github.io/22/index.html" target="_blank">Demo</a>
+23. Calculate how many numbers in the given array are less or equal to the given value using percentage. <a href="https://marius8dev.github.io/23/index.html" target="_blank">Demo</a> 
