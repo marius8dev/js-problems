@@ -21,3 +21,4 @@
 21. Write a JavaScript function to compute the value of b<sup>n</sup> where n is the exponent and b is the base. Accept b and n from the user and display the result. <a href="https://marius8dev.github.io/21/index.html" target="_blank">Demo</a>
 22. Find the first not repeated character inside a string. <a href="https://marius8dev.github.io/22/index.html" target="_blank">Demo</a>
 23. Calculate how many numbers in the given array are less or equal to the given value using percentage. <a href="https://marius8dev.github.io/23/index.html" target="_blank">Demo</a> 
+24. Write a JavaScript function that accepts a string as a parameter and converts the first letter of each word of the string in upper case. <a href="https://marius8dev.github.io/24/index.html" target="_blank">Demo</a> 
