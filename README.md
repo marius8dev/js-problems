@@ -23,3 +23,4 @@
 23. Calculate how many numbers in the given array are less or equal to the given value using percentage. <a href="https://marius8dev.github.io/23/index.html" target="_blank">Demo</a> 
 24. Write a JavaScript function that accepts a string as a parameter and converts the first letter of each word of the string in upper case. <a href="https://marius8dev.github.io/24/index.html" target="_blank">Demo</a> 
 25. Write a JavaScript program to generate a random hexadecimal color code. <a href="https://marius8dev.github.io/25/index.html" target="_blank">Demo</a> 
+26. Write a JavaScript program to swap the first and last elements of a given array of integers. The array length should be  at least 1. <a href="https://marius8dev.github.io/26/index.html" target="_blank">Demo</a>
