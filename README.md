@@ -26,3 +26,4 @@
 26. Write a JavaScript program to swap the first and last elements of a given array of integers. The array length should be  at least 1. <a href="https://marius8dev.github.io/26/index.html" target="_blank">Demo</a>
 27. Find longest substring in a given string without repeating characters. <a href="https://marius8dev.github.io/27/index.html" target="_blank">Demo</a>
 28. Generate an array, containing the Fibonacci sequence, up until the nth term. <a href="https://marius8dev.github.io/28/index.html" target="_blank">Demo</a>
+29. Write a JavaScript function to extract unique characters from a string. <a href="https://marius8dev.github.io/29/index.html" target="_blank">Demo</a>
