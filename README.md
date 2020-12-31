@@ -28,3 +28,4 @@
 28. Generate an array, containing the Fibonacci sequence, up until the nth term. <a href="https://marius8dev.github.io/28/index.html" target="_blank">Demo</a>
 29. Write a JavaScript function to extract unique characters from a string. <a href="https://marius8dev.github.io/29/index.html" target="_blank">Demo</a>
 30. Write a JavaScript program to check if a given string is upper case or not. <a href="https://marius8dev.github.io/30/index.html" target="_blank">Demo</a>
+31. Write a JavaScript program which accept a number as input and insert dashes (-) between each two even numbers. <a href="https://marius8dev.github.io/31/index.html" target="_blank">Demo</a>
